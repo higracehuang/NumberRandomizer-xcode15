@@ -1,0 +1,22 @@
+{
+  "sourceLanguage" : "en",
+  "strings" : {
+    "?" : {
+
+    },
+    "%lld" : {
+
+    },
+    "Generate Random Number" : {
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "生成随机数字"
+          }
+        }
+      }
+    }
+  },
+  "version" : "1.0"
+}

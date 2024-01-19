@@ -11,6 +11,7 @@
 		068510FC2B5ADEE9009B2488 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 068510FB2B5ADEE9009B2488 /* ContentView.swift */; };
 		068510FE2B5ADEEC009B2488 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 068510FD2B5ADEEC009B2488 /* Assets.xcassets */; };
 		068511012B5ADEEC009B2488 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 068511002B5ADEEC009B2488 /* Preview Assets.xcassets */; };
+		0685110D2B5B32C4009B2488 /* Localizable.xcstrings in Resources */ = {isa = PBXBuildFile; fileRef = 0685110C2B5B32C4009B2488 /* Localizable.xcstrings */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -20,6 +21,7 @@
 		068510FD2B5ADEEC009B2488 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		068511002B5ADEEC009B2488 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		068511022B5ADEEC009B2488 /* NumberRandomizer.entitlements */ = {isa = PBXFileReference; lastKnownFileType = text.plist.entitlements; path = NumberRandomizer.entitlements; sourceTree = "<group>"; };
+		0685110C2B5B32C4009B2488 /* Localizable.xcstrings */ = {isa = PBXFileReference; lastKnownFileType = text.json.xcstrings; path = Localizable.xcstrings; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -54,6 +56,7 @@
 			children = (
 				068510F92B5ADEE9009B2488 /* NumberRandomizerApp.swift */,
 				068510FB2B5ADEE9009B2488 /* ContentView.swift */,
+				0685110C2B5B32C4009B2488 /* Localizable.xcstrings */,
 				068510FD2B5ADEEC009B2488 /* Assets.xcassets */,
 				068511022B5ADEEC009B2488 /* NumberRandomizer.entitlements */,
 				068510FF2B5ADEEC009B2488 /* Preview Content */,
@@ -111,6 +114,7 @@
 			knownRegions = (
 				en,
 				Base,
+				"zh-Hans",
 			);
 			mainGroup = 068510ED2B5ADEE9009B2488;
 			productRefGroup = 068510F72B5ADEE9009B2488 /* Products */;
@@ -129,6 +133,7 @@
 			files = (
 				068511012B5ADEEC009B2488 /* Preview Assets.xcassets in Resources */,
 				068510FE2B5ADEEC009B2488 /* Assets.xcassets in Resources */,
+				0685110D2B5B32C4009B2488 /* Localizable.xcstrings in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
